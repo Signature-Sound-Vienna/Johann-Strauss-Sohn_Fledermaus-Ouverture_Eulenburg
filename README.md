@@ -1,3 +1,3 @@
 # Johann Strauss Sohn: Fledermaus-Ouverture
 
-MEI encoding of the famous Blue Danube Waltz, "An der schönen blauen Donau," Op.314 by Johann Strauss Sohn (Johann Strauss junior), following the [Breitkopf & Härtel edition from ca. 1920, plate number B. 3281](https://imslp.org/wiki/Special:ReverseLookup/17764), as available on IMSLP.
+MEI encoding of the Ouverture to the Operetta "Die Fledermaus" ("The Bat") Op. 362 by Johann Strauss Sohn (Johann Strauss junior), following the [Ernst Eulenburg edition, edited by Hans Svarowsky, 1968](https://imslp.org/wiki/Special:ReverseLookup/258660), as available on IMSLP.
