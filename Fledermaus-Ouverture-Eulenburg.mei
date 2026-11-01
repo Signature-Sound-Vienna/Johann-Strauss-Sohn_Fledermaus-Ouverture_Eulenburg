@@ -8860,9 +8860,9 @@
                         <tie xml:id="tajfeq0" startid="#npnbr5l" endid="#ny8tfg7" />
                         <tie xml:id="tj2dmw8" startid="#ncpv4up" endid="#n3mlh5r" />
                      </measure>
+                     <pb xml:id="p55nlvc" />
                   </section>
                   <section xml:id="Eisenstein-Fragethema">
-                     <pb xml:id="p55nlvc" />
                      <measure xml:id="mlhlgzd" n="47">
                         <staff xml:id="s7lrozh" n="1">
                            <layer xml:id="lbo3gwa" n="1">
@@ -11911,8 +11911,6 @@
                         <tie xml:id="tie-0000000158214939" startid="#n8kmrdi" endid="#n1heoug" />
                         <tie xml:id="tie-0000000018313970" startid="#noykszx" endid="#na2t07g" />
                      </measure>
-                  </section>
-                  <section xml:id="Transition-to-theme">
                      <scoreDef xml:id="shcv0z1">
                         <staffGrp xml:id="s117s3h7">
                            <staffDef xml:id="s5akq58" n="1">
@@ -11975,6 +11973,8 @@
                         </staffGrp>
                      </scoreDef>
                      <pb xml:id="p1tdw94i" />
+                  </section>
+                  <section xml:id="Transition-to-theme">
                      <measure xml:id="me2atix" n="69">
                         <staff xml:id="su7uix3" n="1">
                            <layer xml:id="lqxxx7x" n="1">
@@ -20378,8 +20378,6 @@
                            <rend xml:id="rf4g9ee" fontstyle="normal">pizz.</rend>
                         </dir>
                      </measure>
-                  </section>
-                  <section xml:id="Erster-Fledermaus-Walzer" >
                      <scoreDef xml:id="s14o77rk">
                         <staffGrp xml:id="s7wu15y">
                            <staffDef xml:id="st3uj46" n="1">
@@ -20442,6 +20440,8 @@
                         </staffGrp>
                      </scoreDef>
                      <pb xml:id="p1lu8353" />
+                  </section>
+                  <section xml:id="Erster-Fledermaus-Walzer" >
                      <measure xml:id="ml23vx8" n="122">
                         <staff xml:id="sddb9xs" n="1">
                            <layer xml:id="ljns03g" n="1">
