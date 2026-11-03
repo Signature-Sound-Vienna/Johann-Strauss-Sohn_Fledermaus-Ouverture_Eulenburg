@@ -35,7 +35,7 @@
                <name xml:id="name-oev1vq">Verovio</name>
                <p xml:id="p-48g9xi">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="amj2fll2" enddate="2026-11-01T18:29:06" startdate="2026-11-01T17:31:43" version="1.4.2">
+            <application xml:id="amj2fll2" enddate="2026-11-03T15:23:53" startdate="2026-11-01T17:31:43" version="1.4.2">
                <name xml:id="nsywyco1">mei-friend</name>
                <p xml:id="pnpwe39">First edit by mei-friend 1.4.2.</p>
             </application>
@@ -109,7 +109,7 @@
                               <labelAbbr xml:id="lfdg87s">1., 2. Hn. in F</labelAbbr>
                               <instrDef xml:id="iua60w7" midi.channel="5" midi.instrnum="60" midi.volume="78.00%"/>
                               <clef xml:id="cj4s6wq" line="2" shape="G"/>
-                              <keySig xml:id="kr9znuu" sig="4s"/>
+                              <keySig xml:id="kr9znuu" sig="0"/>
                               <meterSig xml:id="m9iwr2" count="2" sym="cut" unit="2"/>
                            </staffDef>
                            <staffDef xml:id="P7" lines="5" n="7" ppq="12" trans.diat="-4" trans.semi="-7">
@@ -117,7 +117,7 @@
                               <labelAbbr xml:id="lmah7rq">3., 4. Hn. in F</labelAbbr>
                               <instrDef xml:id="i7jvs2m" midi.channel="7" midi.instrnum="60" midi.volume="78.00%"/>
                               <clef xml:id="cicju4g" line="2" shape="G"/>
-                              <keySig xml:id="kqwe096" sig="4s"/>
+                              <keySig xml:id="kqwe096" sig="0"/>
                               <meterSig xml:id="m1iq7l7" count="2" sym="cut" unit="2"/>
                            </staffDef>
                         </staffGrp>
@@ -126,7 +126,7 @@
                            <labelAbbr xml:id="ly4b0ns">1., 2. Trp. in F</labelAbbr>
                            <instrDef xml:id="i2nsuec" midi.channel="10" midi.instrnum="56" midi.volume="78.00%"/>
                            <clef xml:id="cdjazjy" line="2" shape="G"/>
-                           <keySig xml:id="kemnqc5" sig="4s"/>
+                           <keySig xml:id="kemnqc5" sig="0"/>
                            <meterSig xml:id="mg94muz" count="2" sym="cut" unit="2"/>
                         </staffDef>
                         <staffDef xml:id="P9" lines="5" n="9" ppq="12">
@@ -1803,7 +1803,7 @@
                                           <note xml:id="nch23d4" oct="5" pname="c"/>
                                           <note xml:id="n39li95" oct="5" pname="g">
                                              <supplied xml:id="s3zxh0r" resp="Matthaeus_Pescoller">
-                                                <accid xml:id="aeoejf7" accid="s"/>
+                                                <accid xml:id="aeoejf7" accid="n"/>
                                              </supplied>
                                           </note>
                                        </chord>
@@ -6064,6 +6064,9 @@
                            <tie xml:id="ty44gqr" endid="#n4rr8sn" startid="#nki56xt"/>
                            <hairpin xml:id="h57ebqw" form="cres" place="below" staff="6" tstamp="3.500000" tstamp2="0m+4.5000"/>
                            <slur xml:id="s4sn2zu" curvedir="above" endid="#n5dqqdu" startid="#nczuzh0"/>
+                           <tie xml:id="tdm4q8a1" endid="#nhhrzdi" staff="5" startid="#np7q407"/>
+                           <tie xml:id="t5kkfd61" endid="#ncd355i" staff="6" startid="#n67n5a2"/>
+                           <tie xml:id="tdztqiq1" endid="#ncd355i" staff="6" startid="#n9op2oo"/>
                         </measure>
                         <measure xml:id="md52g0v" n="31">
                            <staff xml:id="s1sulm9" n="1">
@@ -7956,17 +7959,17 @@
                                  </chord>
                                  <tuplet xml:id="tinsbjl" bracket.visible="false" num="3" numbase="2">
                                     <bTrem xml:id="baifqg3" form="meas">
-                                       <note xml:id="nklxed2" accid.ges="s" dots="1" dur="4" oct="4" pname="g" stem.dir="down" stem.mod="1slash"/>
+                                       <note xml:id="nklxed2" accid.ges="n" dots="1" dur="4" oct="4" pname="g" stem.dir="down" stem.mod="1slash"/>
                                     </bTrem>
                                  </tuplet>
                                  <tuplet xml:id="tcepmfz" bracket.visible="false" num="3" numbase="2">
                                     <bTrem xml:id="bvfxoxs" form="meas">
-                                       <note xml:id="nccv0fy" accid.ges="s" dots="1" dur="4" oct="4" pname="g" stem.dir="down" stem.mod="1slash"/>
+                                       <note xml:id="nccv0fy" accid.ges="n" dots="1" dur="4" oct="4" pname="g" stem.dir="down" stem.mod="1slash"/>
                                     </bTrem>
                                  </tuplet>
                                  <tuplet xml:id="tko9t6i" bracket.visible="false" num="3" numbase="2">
                                     <bTrem xml:id="bhk035h" form="meas">
-                                       <note xml:id="nlhjdb5" accid.ges="s" dots="1" dur="4" oct="4" pname="g" stem.dir="down" stem.mod="1slash"/>
+                                       <note xml:id="nlhjdb5" accid.ges="n" dots="1" dur="4" oct="4" pname="g" stem.dir="down" stem.mod="1slash"/>
                                     </bTrem>
                                  </tuplet>
                               </layer>
