@@ -35,7 +35,7 @@
                <name xml:id="name-oev1vq">Verovio</name>
                <p xml:id="p-48g9xi">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="amj2fll2" enddate="2026-11-04T15:03:08" startdate="2026-11-01T17:31:43" version="1.4.2">
+            <application xml:id="amj2fll2" enddate="2026-11-04T15:33:52" startdate="2026-11-01T17:31:43" version="1.6.0">
                <name xml:id="nsywyco1">mei-friend</name>
                <p xml:id="pnpwe39">First edit by mei-friend 1.4.2.</p>
             </application>
@@ -17342,7 +17342,7 @@
                                     <note xml:id="ny96uem" dur="8" oct="5" pname="b" stem.dir="down"/>
                                     <note xml:id="n1kunpz" dur="8" oct="5" pname="a" stem.dir="down"/>
                                     <note xml:id="n1p0pru" accid="s" dur="8" oct="5" pname="g" stem.dir="down"/>
-                                    <choice xml:id="cujvbzq1">
+                                    <choice xml:id="cujvbzq1" corresp="#c428w4j1" resp="#Werner_Goebl">
                                        <sic xml:id="sx7rw8x2">
                                           <note xml:id="nzbookw" dur="8" oct="5" pname="b" stem.dir="down"/>
                                        </sic>
@@ -17459,7 +17459,7 @@
                            <mordent xml:id="m6g4hwe" form="upper" staff="15" startid="#nft0bqj"/>
                            <slur xml:id="scnrceb" curvedir="above" endid="#nd20fx8" startid="#n77qjho"/>
                            <mordent xml:id="md0wix0" form="upper" staff="15" startid="#n77qjho"/>
-                           <choice xml:id="c428w4j1">
+                           <choice xml:id="c428w4j1" corresp="#cujvbzq1" resp="Werner_Goebl">
                               <sic xml:id="sbzg7kp2">
                                  <mordent xml:id="mw73lkm" form="upper" staff="1" startid="#nzbookw"/>
                                  <slur xml:id="svb6qw9" curvedir="above" endid="#nxk6e3k" startid="#nzbookw"/>
@@ -43330,7 +43330,7 @@
                            <staff xml:id="svbyi5q" n="18">
                               <layer xml:id="lngu9ll" n="1">
                                  <beam xml:id="b8hnf9w">
-                                    <choice xml:id="cmgrnnr1" corresp="#ccnkw141">
+                                    <choice xml:id="cmgrnnr1" corresp="#ccnkw141" resp="#Werner_Goebl">
                                        <sic xml:id="s3hv4fy1">
                                           <note xml:id="neb6xso" accid.ges="s" dur="8" oct="3" pname="d" stem.dir="down"/>
                                           <note xml:id="n909c6r" accid.ges="s" dur="16" oct="3" pname="d" stem.dir="down"/>
@@ -43353,7 +43353,7 @@
                            <staff xml:id="skv5u0h" n="19">
                               <layer xml:id="lx56raz" n="1">
                                  <beam xml:id="bbj83sh">
-                                    <choice xml:id="ccnkw141" corresp="#cmgrnnr1">
+                                    <choice xml:id="ccnkw141" corresp="#cmgrnnr1" resp="#Werner_Goebl">
                                        <sic xml:id="smwav7u2">
                                           <note xml:id="nxagb7e" accid.ges="s" dur="8" oct="3" pname="d" stem.dir="down"/>
                                           <note xml:id="n1yozg6" accid.ges="s" dur="16" oct="3" pname="d" stem.dir="down"/>
@@ -69557,7 +69557,7 @@
                            </staff>
                            <staff xml:id="sdgs6bw" n="8">
                               <layer xml:id="lz64vgl" n="1">
-                                 <choice xml:id="cbjulg11" corresp="#caeucru1">
+                                 <choice xml:id="cbjulg11" corresp="#Werner_Goebl">
                                     <sic xml:id="sqjgtf9">
                                        <chord xml:id="cqsxi90" dur="4" stem.dir="up">
                                           <note xml:id="nc1e9e8" oct="4" pname="e">
