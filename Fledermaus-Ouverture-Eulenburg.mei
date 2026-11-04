@@ -35,7 +35,7 @@
                <name xml:id="name-oev1vq">Verovio</name>
                <p xml:id="p-48g9xi">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="amj2fll2" enddate="2026-11-04T15:01:36" startdate="2026-11-01T17:31:43" version="1.4.2">
+            <application xml:id="amj2fll2" enddate="2026-11-04T15:03:08" startdate="2026-11-01T17:31:43" version="1.4.2">
                <name xml:id="nsywyco1">mei-friend</name>
                <p xml:id="pnpwe39">First edit by mei-friend 1.4.2.</p>
             </application>
@@ -30936,6 +30936,7 @@
                            </staff>
                         </measure>
                         <scoreDef xml:id="s1w5b73p">
+                           <meterSig xml:id="mxdfxfq2" count="2" unit="4"/>
                            <staffGrp xml:id="s1m644yv">
                               <staffDef xml:id="s10lfxgp" n="1">
                                  <keySig xml:id="k1hyvh7r" sig="3s" sig.showchange="true"/>
