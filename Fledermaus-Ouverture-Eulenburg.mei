@@ -69365,8 +69365,7 @@
                                  <note xml:id="n4zrxff" accid.ges="s" dur="8" oct="4" pname="g" stem.dir="up"/>
                               </layer>
                               <layer xml:id="lgcb96c" n="2">
-                                 <note xml:id="ny8jshn" dur="2" oct="4" pname="e" stem.dir="down">
-                                    +          </note>
+                                 <note xml:id="ny8jshn" dur="2" oct="4" pname="e" stem.dir="down"/>
                               </layer>
                            </staff>
                            <staff xml:id="sx0wqxo" n="7">
