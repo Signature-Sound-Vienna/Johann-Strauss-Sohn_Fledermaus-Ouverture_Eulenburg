@@ -35,7 +35,7 @@
                <name xml:id="name-oev1vq">Verovio</name>
                <p xml:id="p-48g9xi">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="amj2fll2" enddate="2026-11-04T13:54:29" startdate="2026-11-01T17:31:43" version="1.4.2">
+            <application xml:id="amj2fll2" enddate="2026-11-04T14:38:41" startdate="2026-11-01T17:31:43" version="1.4.2">
                <name xml:id="nsywyco1">mei-friend</name>
                <p xml:id="pnpwe39">First edit by mei-friend 1.4.2.</p>
             </application>
@@ -31612,12 +31612,16 @@
                            </staff>
                            <staff xml:id="s7832jx" n="5">
                               <layer xml:id="ld1884r" n="1">
-                                 <note xml:id="nnam1b3" accid.ges="s" dur="8" oct="3" pname="g" stem.dir="up"/>
+                                 <note xml:id="nnam1b3" dur="8" oct="3" pname="g" stem.dir="up">
+                                    <accid xml:id="a9nyt67" accid="n"/>
+                                 </note>
                                  <note xml:id="n7u9h40" accid.ges="s" dur="4" oct="3" pname="f" stem.dir="up"/>
                                  <note xml:id="nhgp99t" accid="n" dur="8" oct="3" pname="f" stem.dir="up"/>
                               </layer>
                               <layer xml:id="lnjgfgw" n="2">
-                                 <note xml:id="nlj5xrz" accid.ges="s" dur="8" oct="3" pname="g" stem.dir="down"/>
+                                 <note xml:id="nlj5xrz" dur="8" oct="3" pname="g" stem.dir="down">
+                                    <accid xml:id="ay5a8si2" accid="n"/>
+                                 </note>
                                  <note xml:id="n13tvmk" accid.ges="s" dur="4" oct="3" pname="f" stem.dir="down"/>
                                  <note xml:id="nfon0tq" dur="8" oct="3" pname="f" stem.dir="down"/>
                               </layer>
@@ -32497,14 +32501,18 @@
                            </staff>
                            <staff xml:id="sxxamk0" n="5">
                               <layer xml:id="lzcld72" n="1">
-                                 <note xml:id="no07iyc" accid.ges="s" dur="8" oct="3" pname="g" stem.dir="up"/>
-                                 <note xml:id="nlpjyny" accid.ges="s" dur="4" oct="3" pname="f" stem.dir="up"/>
-                                 <note xml:id="n3lq6wm" accid="n" dur="8" oct="3" pname="f" stem.dir="up"/>
+                                 <note xml:id="no07iyc" dur="8" oct="3" pname="a" stem.dir="up"/>
+                                 <note xml:id="nlpjyny" accid.ges="s" dur="4" oct="3" pname="g" stem.dir="up"/>
+                                 <note xml:id="n3lq6wm" dur="8" oct="3" pname="g" stem.dir="up">
+                                    <accid xml:id="avgp1d11" accid="n"/>
+                                 </note>
                               </layer>
                               <layer xml:id="l1t51tg" n="2">
-                                 <note xml:id="n55og5m" accid.ges="s" dur="8" oct="3" pname="g" stem.dir="down"/>
-                                 <note xml:id="nqsbkxp" accid.ges="s" dur="4" oct="3" pname="f" stem.dir="down"/>
-                                 <note xml:id="nsdx3o2" dur="8" oct="3" pname="f" stem.dir="down"/>
+                                 <note xml:id="n55og5m" dur="8" oct="3" pname="a" stem.dir="down"/>
+                                 <note xml:id="nqsbkxp" accid.ges="s" dur="4" oct="3" pname="g" stem.dir="down"/>
+                                 <note xml:id="nsdx3o2" dur="8" oct="3" pname="g" stem.dir="down">
+                                    <accid xml:id="a5e39sg" accid="n"/>
+                                 </note>
                               </layer>
                            </staff>
                            <staff xml:id="s7z6n4w" n="6">
@@ -32650,12 +32658,12 @@
                            </staff>
                            <staff xml:id="syjsh2e" n="5">
                               <layer xml:id="l7ldcit" n="1">
-                                 <note xml:id="nha9k2r" dur="8" oct="3" pname="e" stem.dir="up"/>
+                                 <note xml:id="nha9k2r" accid.ges="s" dur="8" oct="3" pname="f" stem.dir="up"/>
                                  <rest xml:id="rb0vgwv" dur="8"/>
                                  <rest xml:id="rcs7w7k" dur="4"/>
                               </layer>
                               <layer xml:id="lxx43k7" n="2">
-                                 <note xml:id="nv8kofz" dur="8" oct="3" pname="e" stem.dir="down"/>
+                                 <note xml:id="nv8kofz" accid.ges="s" dur="8" oct="3" pname="f" stem.dir="down"/>
                                  <space xml:id="s5bewcy" dur="4"/>
                                  <space xml:id="scmk8nt" dur="8"/>
                               </layer>
