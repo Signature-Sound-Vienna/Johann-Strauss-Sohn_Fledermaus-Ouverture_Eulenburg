@@ -38807,10 +38807,10 @@
                                  <mRest xml:id="mc3j3u6"/>
                               </layer>
                            </staff>
-                           <tempo xml:id="t62v30p" midi.bpm="120" place="above" staff="1" tstamp="1.000000" xml:lang="it">
+                           <tempo xml:id="t62v30p" midi.bpm="144" place="above" staff="1" tstamp="1.000000" xml:lang="it">
                               <rend xml:id="r520fhl" fontsize="130.00%" fontweight="bold">Allegro moderato</rend>
                            </tempo>
-                           <tempo xml:id="t20gvkw" midi.bpm="120" place="above" staff="15" tstamp="1.000000" xml:lang="it">
+                           <tempo xml:id="t20gvkw" midi.bpm="144" place="above" staff="15" tstamp="1.000000" xml:lang="it">
                               <rend xml:id="rk12xh0" fontsize="130.00%" fontweight="bold">Allegro moderato</rend>
                            </tempo>
                            <tie xml:id="tie-0000000097555997" endid="#ndqp6cu" startid="#nyqzv2l"/>
