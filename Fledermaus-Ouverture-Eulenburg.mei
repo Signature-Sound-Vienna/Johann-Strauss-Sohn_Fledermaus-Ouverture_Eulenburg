@@ -171,7 +171,7 @@
                            <keySig xml:id="kge1x49" sig="0"/>
                            <meterSig xml:id="msxlwhl" count="2" sym="cut" unit="2"/>
                         </staffDef>
-                        <staffDef xml:id="P14" lines="1" n="14" ppq="12" trans.diat="-6" trans.semi="-11">
+                        <staffDef xml:id="P14" lines="1" n="14" ppq="12" trans.diat="-7" trans.semi="-12">
                            <label xml:id="l7qd6r2">Glocke in E</label>
                            <labelAbbr xml:id="laid89q">Gl. in E</labelAbbr>
                            <instrDef xml:id="ivva284" midi.channel="15" midi.instrnum="14" midi.volume="78.00%"/>
