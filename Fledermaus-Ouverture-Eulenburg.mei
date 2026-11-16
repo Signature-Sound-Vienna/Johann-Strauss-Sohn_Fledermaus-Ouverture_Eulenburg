@@ -151,7 +151,7 @@
                            <label xml:id="lm319t4">Tamburin</label>
                            <labelAbbr xml:id="lrduu1d">Tamb.</labelAbbr>
                            <instrDef xml:id="iyee8nw" midi.channel="9" midi.instrnum="48" midi.volume="78.00%"/>
-                           <clef xml:id="c4qxd42" shape="perc"/>
+                           <clef xml:id="c4qxd42" line="1" shape="perc"/>
                            <keySig xml:id="kzfoom2" sig="0"/>
                            <meterSig xml:id="m2sbfbu" count="2" sym="cut" unit="2"/>
                         </staffDef>
@@ -159,7 +159,7 @@
                            <label xml:id="l9x9tbb">Triangel</label>
                            <labelAbbr xml:id="l66t3u4">Trgl.</labelAbbr>
                            <instrDef xml:id="iho1cn3" midi.channel="9" midi.instrnum="48" midi.volume="78.00%"/>
-                           <clef xml:id="coa0s63" shape="perc"/>
+                           <clef xml:id="coa0s63" line="1" shape="perc"/>
                            <keySig xml:id="k3nluqx" sig="0"/>
                            <meterSig xml:id="mo966jw" count="2" sym="cut" unit="2"/>
                         </staffDef>
@@ -167,7 +167,7 @@
                            <label xml:id="ltgv0px">Große Grommel</label>
                            <labelAbbr xml:id="lv27xie">Gr. Tr.</labelAbbr>
                            <instrDef xml:id="ickbv6o" midi.channel="9" midi.instrnum="48" midi.volume="78.00%"/>
-                           <clef xml:id="cm3fnnt" shape="perc"/>
+                           <clef xml:id="cm3fnnt" line="1" shape="perc"/>
                            <keySig xml:id="kge1x49" sig="0"/>
                            <meterSig xml:id="msxlwhl" count="2" sym="cut" unit="2"/>
                         </staffDef>
