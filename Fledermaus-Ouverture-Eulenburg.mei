@@ -17459,7 +17459,7 @@
                            <mordent xml:id="m6g4hwe" form="upper" staff="15" startid="#nft0bqj"/>
                            <slur xml:id="scnrceb" curvedir="above" endid="#nd20fx8" startid="#n77qjho"/>
                            <mordent xml:id="md0wix0" form="upper" staff="15" startid="#n77qjho"/>
-                           <choice xml:id="c428w4j1" corresp="#cujvbzq1" resp="Werner_Goebl">
+                           <choice xml:id="c428w4j1" corresp="#cujvbzq1" resp="#Werner_Goebl">
                               <sic xml:id="sbzg7kp2">
                                  <mordent xml:id="mw73lkm" form="upper" staff="1" startid="#nzbookw"/>
                                  <slur xml:id="svb6qw9" curvedir="above" endid="#nxk6e3k" startid="#nzbookw"/>
@@ -69557,7 +69557,7 @@
                            </staff>
                            <staff xml:id="sdgs6bw" n="8">
                               <layer xml:id="lz64vgl" n="1">
-                                 <choice xml:id="cbjulg11" corresp="#Werner_Goebl">
+                                 <choice xml:id="cbjulg11" resp="#Werner_Goebl">
                                     <sic xml:id="sqjgtf9">
                                        <chord xml:id="cqsxi90" dur="4" stem.dir="up">
                                           <note xml:id="nc1e9e8" oct="4" pname="e">
